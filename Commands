@@ -1,0 +1,4 @@
+After Starting the daemons using "start all.sh"
+pwd
+hadoop fs -ls
+hadoop fs mkdir /user/acadgild/hadoop
